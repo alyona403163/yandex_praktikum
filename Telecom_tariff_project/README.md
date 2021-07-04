@@ -54,4 +54,4 @@
 
 ## Используемые библиотеки: 
 
-*pandas, numpy, matplotlib, scipy, termcolor
+*pandas, numpy, matplotlib, scipy, termcolor*
