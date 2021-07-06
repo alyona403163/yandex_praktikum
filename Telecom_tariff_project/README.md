@@ -1,5 +1,6 @@
 # Описание проекта "Определение перспективного тарифа для телеком компании"
 
+Ссылка на просмотр  проекта в nbviewer [https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Telecom_tariff_project/Telecom_tariff.ipynb](https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Telecom_tariff_project/Telecom_tariff.ipynb "Ссылка на проект")
 ## Данные:
 
 «Мегалайн» — федеральный оператор сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». В нашем распоряжении данные 500 пользователей «Мегалайна»: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год.
