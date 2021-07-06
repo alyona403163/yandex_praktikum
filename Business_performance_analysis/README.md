@@ -1,5 +1,7 @@
 # Описание проекта "Выявление невыгодных источников трафика и перераспределение маркетингового бюджета"
 
+Ссылка на просмотр проекта в nbviewer [https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Business_performance_analysis/Business_performance_analysis.ipynb](https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Business_performance_analysis/Business_performance_analysis.ipynb "Ссылка на проект")
+
 ## Данные:
 
 Отделу маркетинговой аналитики Яндекс.Афиши нужно помочь маркетологам снизить расходы — отказаться от невыгодных источников трафика и перераспределить бюджет.
