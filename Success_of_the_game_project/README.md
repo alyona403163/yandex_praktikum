@@ -1,5 +1,7 @@
 # Описание проекта "Выявление закономерностей для успешности игры"
 
+Ссылка на просмотр проекта в nbviewer [https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Success_of_the_game_project/Success_of_the_game.ipynb](https://nbviewer.jupyter.org/github/alyona403163/yandex_praktikum/blob/main/Success_of_the_game_project/Success_of_the_game.ipynb "Ссылка на проект")
+
 ## Данные:
 
 Интернет-магазин «Стримчик» продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные до 2016г. о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation).
